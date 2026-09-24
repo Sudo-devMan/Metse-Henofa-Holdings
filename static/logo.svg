@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Dark Background Badge -->
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  
+  <!-- Main Monogram MHH -->
+  <text 
+    x="50%" 
+    y="230" 
+    font-family="system-ui, -apple-system, sans-serif" 
+    font-size="170" 
+    font-weight="900" 
+    fill="#ffffff" 
+    text-anchor="middle" 
+    dominant-baseline="central"
+    letter-spacing="-2"
+  >
+    M<tspan fill="#f97316">H</tspan>H
+  </text>
+  
+  <!-- Orange Accent Divider Line -->
+  <line x1="100" y1="330" x2="412" y2="330" stroke="#f97316" stroke-width="12" stroke-linecap="round" />
+
+  <!-- Subtext: Metse Henofa Holdings -->
+  <text 
+    x="50%" 
+    y="380" 
+    font-family="system-ui, -apple-system, sans-serif" 
+    font-size="34" 
+    font-weight="700" 
+    fill="#e2e8f0" 
+    text-anchor="middle"
+    letter-spacing="2"
+  >
+    METSE HENOFA
+  </text>
+  <text 
+    x="50%" 
+    y="425" 
+    font-family="system-ui, -apple-system, sans-serif" 
+    font-size="28" 
+    font-weight="600" 
+    fill="#f97316" 
+    text-anchor="middle"
+    letter-spacing="6"
+  >
+    HOLDINGS
+  </text>
+</svg>
