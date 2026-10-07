@@ -152,7 +152,7 @@
           </li>
           <li class="flex items-center space-x-2">
             <i class="fa-solid fa-envelope text-orange-500"></i>
-            <a href="mailto:info@metseenofaholdings.co.za" class="hover:text-orange-400 transition duration-200 break-all">info@metseenofaholdings.co.za</a>
+            <a href="mailto:info@metsehenofaholdings.co.za" class="hover:text-orange-400 transition duration-200 break-all">info@metsehenofaholdings.co.za</a>
           </li>
         </ul>
       </div>
